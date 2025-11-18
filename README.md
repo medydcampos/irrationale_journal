@@ -1,3 +1,8 @@
-# Please, note:
+# Charting the Course of Happiness: An Exploration of the Interplay Between Governance and Wellbeing across Nations (2014-2021)
+
+
+The study of happiness and the determinants of life satisfaction have become a fundamental part of the scientific debate surrounding public policies. This article investigated how the six global governance indicators from the World Bank are correlated with the Happiness Score, calculated using data from the World Gallup Poll. In light of democracy's multifaceted nature, it was important to use the different indicators to capture its complexity adequately. This approach enabled an investigation into which specific indicator might serve as an optimal predictor of the Happiness score, a dimension that is an ongoing field of research and deserves to be explored in greater depth. Employing two estimation methodologies — Mixed Effects Model (MEMs) and Fixed Effects Model (FEMs) — linear regressions were estimated to explore the correlation between governance and life satisfaction. The Fixed Effects model was considered more robust due to the possibility of including controls. The main finding was that, for a sample of 115 countries in the time frame from 2014 to 2021, Government Effectiveness best predicts the variance in the Happiness Score. This result has implications on how policy can increase well-being and which specific facets of governance are of more importance.
+
+
 As a research associate in PBS Journal, I was responsible for the Fixed Effects Model code and data cleaning. I did not do the code for the Mixed Effects Model.
 This was not my responsability within the group. I am attaching the code I did as a member of the research group. 
